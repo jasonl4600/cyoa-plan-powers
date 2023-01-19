@@ -5,4 +5,4 @@
 ## Start your story
 
 
-Made by [Jason Lu](https://github.com/jasonl4600) and 
+Made by [Jason Lu](https://github.com/jasonl4600) and [Leonel Pala](https://github.com/leonelp8111)
