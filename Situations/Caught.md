@@ -1,2 +1,5 @@
 # You die
-The CIA poisons you and they take your body for experimentation
+The CIA puts you to sleep and take your body for experimentation but you wake up before anything happens
+
+[Beat them up]
+[See what happens]
